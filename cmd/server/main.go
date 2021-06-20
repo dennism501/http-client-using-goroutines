@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("Hello Sweet bitches")
+	fmt.Println("I am sorry if you saw my previous commit :(")
 }
